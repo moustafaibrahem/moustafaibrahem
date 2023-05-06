@@ -4,8 +4,8 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: moustafaibra](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: moustafa brahim](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Twitter: moustafaib](https://img.shields.io/twitter/follow/moustafaib?style=social)](https://twitter.com/moustafaib)
+[![Linkedin: moustafa brahim](https://img.shields.io/badge/-moustafaibrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Moustafa](https://img.shields.io/github/followers/moustafaibrahem?label=follow&style=social)](https://github.com/moustafaibrahem)
 
 ### 📫 Like to meet me?
