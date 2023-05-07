@@ -13,17 +13,17 @@
 const moustafa = {
     pronouns: "He" | "Him",
     code: ["Java", "Javascript", "C++",  "C#", "Dart"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Express", "Knex"],
+            java: ["Servlet", "Spring Boot", "Hibernate", "Spring Data"]
+            c#: ["ASP MVC", "LINQ", "Entity Framework"]
         },
         mobileApp: {
-            native: ["Android Development"]
+            cross: ["Flutter Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["MySql", "PostgreSQL", "SQLite", "Oracle"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications"],
     currentFocus: "No Focus point at this time",
