@@ -30,12 +30,5 @@ const moustafa = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-## 🗂️ Highlight Projects
-
-
-<a href="https://github.com/YallaBusCorp/YallaBUS-spring">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YallaBusCorp-na&repo=YallaBUS-spring&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="YallaBusCorp" />
-</a>
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
