@@ -16,14 +16,14 @@ const moustafa = {
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express", "Knex"],
-            java: ["Servlet", "Spring Boot", "Hibernate", "Spring Data"]
+            java: ["Spring Boot", "Spring Data", "Spring Security", "Spring cloud", "consul", "Javafx"],
+            js: ["Express", "Knex"],
             c#: ["ASP MVC", "LINQ", "Entity Framework"]
         },
         mobileApp: {
             cross: ["Flutter Development"]
         },
-        databases: ["MySql", "PostgreSQL", "SQLite", "Oracle"]
+        databases: ["Oracle", "PostgreSQL", "MySql"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications"],
     currentFocus: "No Focus point at this time",
